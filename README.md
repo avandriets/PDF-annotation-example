@@ -1,13 +1,20 @@
-# Annotation for PDF
+# Custom Annotation for PDF
 
-Annotation layer for [pdf.js](https://github.com/mozilla/pdf.js)
+The main goal of this project is to show how to add annotation to PDF file
+I have implemented just basic functionality to understand ability of these tools.
 
-## Developing
+# Tools & libraries
+PDFJS [pdf.js](https://github.com/mozilla/pdf.js)
+
+
+Annotation layer[pdf-annotate.js](https://github.com/instructure/pdf-annotate.js)
+
+## To run project
 
 ```bash
 # clone the repo
-$ git clone https://github.com/instructure/pdf-annotate.js.git
-$ cd pdf-annotate.js
+$ git clone https://github.com/avandriets/PDF-annotation-example.git
+$ cd PDF-annotation-example
 
 # intall dependencies
 $ npm install
@@ -16,9 +23,4 @@ $ npm install
 $ npm start
 $ open http://127.0.0.1:8080
 
-# run tests
-$ npm test
 ```
-## License
-
-MIT
