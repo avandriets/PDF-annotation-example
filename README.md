@@ -1,6 +1,7 @@
 # Custom Annotation for PDF
 
 The main goal of this project is to show how to add annotation to PDF file
+
 I have implemented just basic functionality to understand ability of these tools.
 
 # Tools & libraries
